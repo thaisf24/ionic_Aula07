@@ -5,7 +5,6 @@ import { MovieProvider } from '../../providers/movie/movie';
 
 /**
  * Generated class for the GeneroPage page.
- *Aluno: Henrique de Lima Ramos  RA: 816114779
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
  */
