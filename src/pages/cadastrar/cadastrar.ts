@@ -4,7 +4,6 @@ import { FilmePage } from '../filme/filme';
 
 /**
  * Generated class for the CadastrarPage page.
- Aluno: Henrique de Lima Ramos  RA: 816114779
  * See https://ionicframework.com/docs/components/#navigation for more info on
  * Ionic pages and navigation.
  */
